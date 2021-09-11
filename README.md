@@ -34,6 +34,15 @@ What is Human-Robot Interaction (HRI) research about? Checkout [Maya's slides](h
 - [An Affective Guide Robot in a Shopping Mall](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.152.3428&rep=rep1&type=pdf)
 - [User-Centered Design and Evaluation of a Mobile Shopping Robot](https://www.nicola-doering.de/wp-content/uploads/2014/08/D%C3%B6ring-P%C3%B6schl-Gross-Bley-Martin-Boehme-2015-User-Centerd-Design-and-Evaluation-of-a-Mobile-Shopping-Robot.pdf)
 
+<!-- - [Verbalization: Narration of Autonomous Robot Experience](https://www.ijcai.org/Proceedings/16/Papers/127.pdf)
+- [Communicating Robot Motion Intent with Augmented Reality]()
+- [Virtually Adapted Reality and Algorithm Visualization for Autonomous Robots](Virtually Adapted Reality and Algorithm Visualization for Autonomous Robots)
+-->
+
 ## Human Simulators & HRI Datasets
 
 See https://github.com/mjyc/dudewhereismyrepo
+
+## Not-so-related Links
+
+- [goabstract/Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers)
