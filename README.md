@@ -11,6 +11,7 @@ What is Human-Robot Interaction (HRI) research about? Checkout [Maya's slides](h
 - [Design Methodology for the UX of HRI: A Field Study of a Commercial Social Robot at an Airport](https://www.researchgate.net/profile/Meg-Tonkin/publication/322353247_Design_Methodology_for_the_UX_of_HRI_A_Field_Study_of_a_Commercial_Social_Robot_at_an_Airport/links/5b173bc7aca272d24cc3c578/Design-Methodology-for-the-UX-of-HRI-A-Field-Study-of-a-Commercial-Social-Robot-at-an-Airport.pdf)
 - [Human Centered Robotics: Designing Valuable Experiences for Social Robots](http://socialrobotsinthewild.org/wp-content/uploads/2018/02/HRI-SRW_2018_paper_2.pdf)
 - [Enabling building service robots to guide blind people a participatory design approach](https://homes.cs.washington.edu/~mcakmak/pdfs/2016/azenkot2016hri.pdf)
+- [Culturally Variable Preferences for Robot Design and Use in South Korea, Turkey, and the United States](https://thrish.org/wp-content/uploads/2018/11/Culturally-variable-preferenaces-for-robot-design.pdf)
 - [How a guide robot should behave at an airport insights based on observing passengers](http://spencer.eu/papers/joosseCTIT15.pdf)
 - [Using the visitor experiences for mapping the possibilities of implementing a robotic guide in outdoor sites](https://ieeexplore.ieee.org/abstract/document/6343889)
 
@@ -20,6 +21,7 @@ What is Human-Robot Interaction (HRI) research about? Checkout [Maya's slides](h
 - [Designing the Behavior of Interactive Objects](https://www.researchgate.net/profile/Nikolas-Martelaro/publication/311491451_Designing_the_Behavior_of_Interactive_Objects/links/5aa5eab50f7e9badd9ab5e98/Designing-the-Behavior-of-Interactive-Objects.pdf)
 - [Exploring Relationships Between Interaction Attributes and Experience](https://www.researchgate.net/profile/Sarah-Diefenbach/publication/257197162_Exploring_Relationships_Between_Interaction_Attributes_and_Experience/links/00b7d5249c79cdec59000000/Exploring-Relationships-Between-Interaction-Attributes-and-Experience.pdf)
 - [The design of implicit interactions](https://www.wendyju.com/publications/ImplicitInteraction-WJ.doc.pdf)
+- [Characterizing the Design Space of Rendered Robot Faces](https://par.nsf.gov/servlets/purl/10067196)
 
 ## User Study
 
@@ -34,10 +36,17 @@ What is Human-Robot Interaction (HRI) research about? Checkout [Maya's slides](h
 - [An Affective Guide Robot in a Shopping Mall](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.152.3428&rep=rep1&type=pdf)
 - [User-Centered Design and Evaluation of a Mobile Shopping Robot](https://www.nicola-doering.de/wp-content/uploads/2014/08/D%C3%B6ring-P%C3%B6schl-Gross-Bley-Martin-Boehme-2015-User-Centerd-Design-and-Evaluation-of-a-Mobile-Shopping-Robot.pdf)
 
-<!-- - [Verbalization: Narration of Autonomous Robot Experience](https://www.ijcai.org/Proceedings/16/Papers/127.pdf)
-- [Communicating Robot Motion Intent with Augmented Reality]()
-- [Virtually Adapted Reality and Algorithm Visualization for Autonomous Robots](Virtually Adapted Reality and Algorithm Visualization for Autonomous Robots)
--->
+## Privacy & Security
+
+- [Toys that listen: A study of parents, children, and internet-connected toys](https://digitalcommons.law.uw.edu/cgi/viewcontent.cgi?article=1002&context=techlab)
+- [Security and Privacy for Augmented Reality Systems](https://homes.cs.washington.edu/~yoshi/papers/arsec-cacm2014-preprint.pdf)
+- [moz-extension://8f7929b9-9787-0543-a437-22c508a1aa77/dashboard.html](https://hcrlab.cs.washington.edu/assets/pdfs/2015/butler2015hri.pdf)
+
+## Trasnparency, Data Visualization, UI
+
+- [Verbalization: Narration of Autonomous Robot Experience](https://www.ijcai.org/Proceedings/16/Papers/127.pdf)
+- [Communicating Robot Motion Intent with Augmented Reality](https://www.researchgate.net/profile/Hooman-Hedayati/publication/323595221_Communicating_Robot_Motion_Intent_with_Augmented_Reality/links/5abbed870f7e9bfc04559830/Communicating-Robot-Motion-Intent-with-Augmented-Reality.pdf)
+- [Virtually Adapted Reality and Algorithm Visualization for Autonomous Robots](http://www.cs.cmu.edu/~mmv/papers/16robocup-danny.pdf)
 
 ## Human Simulators & HRI Datasets
 
