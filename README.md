@@ -22,6 +22,7 @@ What is Human-Robot Interaction (HRI) research about? Checkout [Maya's slides](h
 - [Exploring Relationships Between Interaction Attributes and Experience](https://www.researchgate.net/profile/Sarah-Diefenbach/publication/257197162_Exploring_Relationships_Between_Interaction_Attributes_and_Experience/links/00b7d5249c79cdec59000000/Exploring-Relationships-Between-Interaction-Attributes-and-Experience.pdf)
 - [The design of implicit interactions](https://www.wendyju.com/publications/ImplicitInteraction-WJ.doc.pdf)
 - [Characterizing the Design Space of Rendered Robot Faces](https://par.nsf.gov/servlets/purl/10067196)
+- [Drone Near Me: Exploring Touch-Based Human-Drone Interaction](https://hci.stanford.edu/publications/2017/dronenearme/drone_near_me.pdf)
 
 ## User Study
 
