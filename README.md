@@ -1,5 +1,4 @@
-# hri-papers-for-industry
-HRI Papers for Industry
+# HRI Papers for Industry
 
 What is Human-Robot Interaction (HRI) research about? Checkout [Maya's slides](https://homes.cs.washington.edu/~todorov/courses/cseP590/07_HRI.pdf)!
 
@@ -41,7 +40,7 @@ What is Human-Robot Interaction (HRI) research about? Checkout [Maya's slides](h
 
 - [Toys that listen: A study of parents, children, and internet-connected toys](https://digitalcommons.law.uw.edu/cgi/viewcontent.cgi?article=1002&context=techlab)
 - [Security and Privacy for Augmented Reality Systems](https://homes.cs.washington.edu/~yoshi/papers/arsec-cacm2014-preprint.pdf)
-- [moz-extension://8f7929b9-9787-0543-a437-22c508a1aa77/dashboard.html](https://hcrlab.cs.washington.edu/assets/pdfs/2015/butler2015hri.pdf)
+- [The Privacy-Utility Tradeoff for Remotely Teleoperated Robots](https://hcrlab.cs.washington.edu/assets/pdfs/2015/butler2015hri.pdf)
 
 ## Trasnparency, Data Visualization, UI
 
@@ -51,7 +50,11 @@ What is Human-Robot Interaction (HRI) research about? Checkout [Maya's slides](h
 
 ## Human Simulators & HRI Datasets
 
-See https://github.com/mjyc/dudewhereismyrepo
+See https://github.com/mjyc/dudewhereismyrepo#curated-lists
+
+## End-User Programming
+
+See my ["End User Programming for Robots"](https://docs.google.com/spreadsheets/d/1rl0oc0k0RJZSLr9KGUZBfRkND4sMzNRgZ-AhTou_Yvs/edit?usp=sharing) spreadsheet - _last updated in 2021/10_
 
 ## Not-so-related Links
 
