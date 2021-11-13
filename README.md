@@ -42,7 +42,7 @@ What is Human-Robot Interaction (HRI) research about? Checkout [Maya's slides](h
 - [Security and Privacy for Augmented Reality Systems](https://homes.cs.washington.edu/~yoshi/papers/arsec-cacm2014-preprint.pdf)
 - [The Privacy-Utility Tradeoff for Remotely Teleoperated Robots](https://hcrlab.cs.washington.edu/assets/pdfs/2015/butler2015hri.pdf)
 
-## Trasnparency, Data Visualization, UI
+## Transparency, Data Visualization, UI
 
 - [Verbalization: Narration of Autonomous Robot Experience](https://www.ijcai.org/Proceedings/16/Papers/127.pdf)
 - [Communicating Robot Motion Intent with Augmented Reality](https://www.researchgate.net/profile/Hooman-Hedayati/publication/323595221_Communicating_Robot_Motion_Intent_with_Augmented_Reality/links/5abbed870f7e9bfc04559830/Communicating-Robot-Motion-Intent-with-Augmented-Reality.pdf)
