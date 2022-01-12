@@ -54,7 +54,7 @@ See https://github.com/mjyc/dudewhereismyrepo#curated-lists
 
 ## End-User Programming
 
-See my ["End User Programming for Robots"](https://docs.google.com/spreadsheets/d/1rl0oc0k0RJZSLr9KGUZBfRkND4sMzNRgZ-AhTou_Yvs/edit?usp=sharing) spreadsheet - _last updated in 2021/10_
+See my ["End User Programming for Robots"](https://docs.google.com/spreadsheets/d/1rl0oc0k0RJZSLr9KGUZBfRkND4sMzNRgZ-AhTou_Yvs/edit?usp=sharing) spreadsheet (_last updated in 2021/10_) and [awesome-end-user-programming](https://github.com/mjyc/awesome-end-user-programming) maybe
 
 ## Not-so-related Links
 
