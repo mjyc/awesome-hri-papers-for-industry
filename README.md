@@ -1,4 +1,4 @@
-# HRI Papers for Industry
+# Awesome HRI Papers for Industry
 
 What is Human-Robot Interaction (HRI) research about? Checkout [Maya's slides](https://homes.cs.washington.edu/~todorov/courses/cseP590/07_HRI.pdf)!
 
@@ -59,3 +59,8 @@ See my ["End User Programming for Robots"](https://docs.google.com/spreadsheets/
 ## Not-so-related Links
 
 - [goabstract/Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers)
+- [amilajack/project-checklist](https://github.com/amilajack/project-checklist)
+
+## License
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
