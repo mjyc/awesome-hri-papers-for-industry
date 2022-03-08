@@ -22,7 +22,7 @@ What is Human-Robot Interaction (HRI) research about? Checkout [Maya's slides](h
 - [The design of implicit interactions](https://www.wendyju.com/publications/ImplicitInteraction-WJ.doc.pdf)
 - [Characterizing the Design Space of Rendered Robot Faces](https://par.nsf.gov/servlets/purl/10067196)
 - [Drone Near Me: Exploring Touch-Based Human-Drone Interaction](https://hci.stanford.edu/publications/2017/dronenearme/drone_near_me.pdf)
-- [Exclusive Look Inside TickTock’s Consumer Robot Product Explorations](https://medium.com/@ryanhickman/exclusive-look-inside-ticktocks-consumer-robot-product-explorations-38ae7e494403) - A blog post by [Ryan Hickman](https://twitter.com/ryanmhickman), not a paper
+- [Exclusive Look Inside TickTock’s Consumer Robot Product Explorations](https://medium.com/@ryanhickman/exclusive-look-inside-ticktocks-consumer-robot-product-explorations-38ae7e494403) - A blog post by [Ryan Hickman](https://twitter.com/ryanmhickman) (not an academic paper)
 
 ## User Study
 
@@ -36,7 +36,7 @@ What is Human-Robot Interaction (HRI) research about? Checkout [Maya's slides](h
 - [Domestic Robot Ecology: An Initial Framework to Unpack Long-Term Acceptance of Robots at Home](http://www.hichristensen.com/hic-papers/SORO_2010.pdf)
 - [An Affective Guide Robot in a Shopping Mall](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.152.3428&rep=rep1&type=pdf)
 - [User-Centered Design and Evaluation of a Mobile Shopping Robot](https://www.nicola-doering.de/wp-content/uploads/2014/08/D%C3%B6ring-P%C3%B6schl-Gross-Bley-Martin-Boehme-2015-User-Centerd-Design-and-Evaluation-of-a-Mobile-Shopping-Robot.pdf)
-- [CS 564 FIELD STUDIES IN SE AND HCI](https://classes.engr.oregonstate.edu/eecs/winter2021/cs564/) - A class taught by [Prof. Margaret M. Burnett at OSU](https://web.engr.oregonstate.edu/~burnett/), not a paper
+- [CS 564 FIELD STUDIES IN SE AND HCI](https://classes.engr.oregonstate.edu/eecs/winter2021/cs564/) - A class taught by [Prof. Margaret M. Burnett at OSU](https://web.engr.oregonstate.edu/~burnett/) (not an academic paper)
 
 ## Privacy & Security
 
