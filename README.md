@@ -1,6 +1,6 @@
 # Awesome HRI Papers for Industry
 
-What is Human-Robot Interaction (HRI) research about? Checkout [Maya's slides](https://homes.cs.washington.edu/~todorov/courses/cseP590/07_HRI.pdf)! or [mine](https://docs.google.com/presentation/d/1VY1IZ9D-hrjn-D8cvgSOFIlG6jCh_YCMxolmh0IQ_ak) :)
+What is Human-Robot Interaction (HRI) research about? Checkout [Maya's slides](https://homes.cs.washington.edu/~todorov/courses/cseP590/07_HRI.pdf)! or [mine](https://speakerdeck.com/mikechung/iterative-design-of-robot-services-in-wild) :)
 
 ## User Research
 
