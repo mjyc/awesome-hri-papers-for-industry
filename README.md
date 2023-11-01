@@ -23,6 +23,7 @@ What is Human-Robot Interaction (HRI) research about? Checkout [Maya's slides](h
 - [Characterizing the Design Space of Rendered Robot Faces](https://par.nsf.gov/servlets/purl/10067196)
 - [Drone Near Me: Exploring Touch-Based Human-Drone Interaction](https://hci.stanford.edu/publications/2017/dronenearme/drone_near_me.pdf)
 - [Exclusive Look Inside TickTock’s Consumer Robot Product Explorations](https://medium.com/@ryanhickman/exclusive-look-inside-ticktocks-consumer-robot-product-explorations-38ae7e494403) - A blog post by [Ryan Hickman](https://twitter.com/ryanmhickman) (not an academic paper)
+- [How to Pick a Problem](https://generalrobots.substack.com/p/how-to-pick-a-problem) (not an academic paper)
 
 ## User Study
 
